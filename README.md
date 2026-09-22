@@ -1,5 +1,9 @@
 # MATLAB robotics visualization
 
+> **Coursework** · Transforms and visualization exercises
+>
+> [Selected projects](https://github.com/BadrEss01/BadrEss#selected-projects) · [Coursework](https://github.com/BadrEss01/BadrEss/blob/main/COURSEWORK.md)
+
 Coursework exploring robot geometry, coordinate frames and hierarchical transformations.
 
 ## Contents
