@@ -2,7 +2,7 @@
 
 > **Coursework** · Transforms and visualization exercises
 >
-> [Selected projects](https://github.com/BadrEss01/BadrEss#selected-projects) · [Coursework](https://github.com/BadrEss01/BadrEss/blob/main/COURSEWORK.md)
+> [Selected projects](https://github.com/BadrEss01/BadrEss01#selected-projects) · [Coursework](https://github.com/BadrEss01/BadrEss01/blob/main/COURSEWORK.md)
 
 Coursework exploring robot geometry, coordinate frames and hierarchical transformations.
 
@@ -24,4 +24,4 @@ Keep the helper functions on the MATLAB path. The script uses MATLAB graphics fu
 
 This is a visualization exercise, not a physical robot controller. MATLAB execution has not been revalidated in the current maintenance environment. Source folders are preserved so relative function lookup continues to work.
 
-[Portfolio](https://github.com/BadrEss01/BadrEss) · [Coursework index](https://github.com/BadrEss01/BadrEss/blob/main/COURSEWORK.md)
+[Portfolio](https://github.com/BadrEss01/BadrEss01) · [Coursework index](https://github.com/BadrEss01/BadrEss01/blob/main/COURSEWORK.md)
